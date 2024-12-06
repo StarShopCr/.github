@@ -24,7 +24,7 @@ StarShop is an innovative platform designed to empower small businesses and entr
 
 ### Backend
 - 🔧 **[Node.js](https://nodejs.org/)** (Express): Backend runtime and framework.
-- 🗄️ [TypeORM](https://typeorm.io/)**: ORM tools for database interaction.
+- 🗄️ [TypeORM](https://typeorm.io/)**: ORM tool for database interaction.
 - 🛢️ **[PostgreSQL](https://www.postgresql.org/)**: Relational database.
 
 ### Smart Contracts
