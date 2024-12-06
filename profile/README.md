@@ -1,4 +1,4 @@
-# 🌟 StartShop
+# 🌟 StarShop
 
 StartShop is an innovative platform designed to empower small businesses and entrepreneurs by providing an easy-to-use marketplace infused with blockchain technology. The platform fosters transparency and trust by utilizing Non-Fungible Tokens (NFTs) to create unique digital experiences for customers and businesses alike.
 
